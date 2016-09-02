@@ -1,24 +1,38 @@
 #navbar {
     
 }
+
 #navbar li {
     display: inline-block;
     padding: 10px;
     font-size: 40px;
-    border: 4px black;
+    border: 1px black;
     background-color: yellow;
-    
-}
-#nevbar a     
-{}
-p.sanserif {
-        font-family: arial, helvetica, sans-serif; 
+    color: black;
 }
 
-#navbar a{
-    text-decoration: none; 
+#navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 64px;
+    font-family: "comic Sans Ms", cursive, sans-serif;
+}
+body{ 
+background-color: red;
     
-
-
     
 }
+
+
+/*
+selector {
+    property: value;
+}
+*/
+
+
