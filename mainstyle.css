@@ -7,20 +7,20 @@
     padding: 10px;
     font-size: 40px;
     border: 1px black;
-    background-color: yellow;
+    background-color: tan;
     margin-left:-5px;
 }
 
 #navbar a {
     text-decoration: none;
-    color: white;
+    color: border-left
 }
 
 h1 {
+   font-family: "cherry cream soda", cursive;
     font-weight: bold;
     text-align: center;
     font-size: 64px;
-    font-family: "comic Sans Ms", cursive, sans-serif;
 }
 body{ 
 background: url("http://www.tourisme-haut-minervois.fr/fr/decouvrir-haut-minervois/villages-minervois/images/CAUNES/caunes-vue.jpg") fixed center center no-repeat;
